@@ -23,7 +23,7 @@ require_once('header.php');
                     <p class="float-end mb-1">
                         <a href="index.php">Back to top</a>
                     </p>
-                    <p>&copy; 2017-2022 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a
+                    <p>&copy; 2022-2023 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a
                     href="#">Terms</a></p>
                 </div>
             </footer>
