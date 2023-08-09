@@ -78,7 +78,7 @@
 				<div>
 					<div class="col-sm-6" >
 						<div class="logo pull-left" >
-                            <a href="index.php" style="background-color:#073;color:#FFF">Marches WoodShell
+                            <a href="index.php" style="background-color:#073;color:#FFF">Chocolate land
                             <img src="images/logoMWS.png" width="70" height="70"></a>
 						</div>
 					</div>
