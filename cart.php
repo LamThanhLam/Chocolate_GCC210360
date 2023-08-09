@@ -124,7 +124,7 @@ foreach($rows as $row){
         </div>
 
         <div class="d-flex justify-content-end">
-          <button type="button" class="btn btn-light btn-lg me-2">Continue shopping</button>
+          <button type="button" class="btn btn-light btn-lg me-2"><a href="allproducts.php">Continue shopping</a></button>
           <button type="button" class="btn btn-primary btn-lg">Add to cart</button>
         </div>
 
