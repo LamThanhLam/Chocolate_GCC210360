@@ -73,13 +73,13 @@
 			</div>
 		</div><!--/header_top-->
 		
-		<div class="header-middle" style="background-color:#073"><!--header-middle-->
+		<div class="header-middle" style="background-color:#FFE6A5"><!--header-middle-->
 			<div class="container" >
 				<div>
 					<div class="col-sm-6" >
 						<div class="logo pull-left" >
-                            <a href="index.php" style="background-color:#073;color:#FFF">Chocolate land
-                            <img src="images/logoMWS.png" width="70" height="70"></a>
+                            <a href="index.php" style="background-color:#FFE6A5;color:#000">Chocolate land
+                            <img src="images/logoChocolateLand.png" width="70" height="70"></a>
 						</div>
 					</div>
 					<div class="col-sm-6">
@@ -88,19 +88,19 @@
                                 <?php
                                     if (isset($_SESSION['us']) && $_SESSION['us'] != ""){
                                 ?>
-                                        <li><a style="background-color:#073;color:#FFF" href="?page=update_customer">
+                                        <li><a style="background-color:#FFE6A5;color:#000" href="?page=update_customer">
                                         <i class="fa fa-lock"></i>Hi, <?php echo $_SESSION['us']?></a>
                                     </li>
-                                        <li><a href="?page=logout" style="background-color:#073;color:#FFF">
+                                        <li><a href="?page=logout" style="background-color:#FFE6A5;color:#000">
                                         <i class="fa fa-crosshairs"></i>Logout</a></li>
                                 <?php
                                         }
                                         else
                                         {
                                 ?>
-                                <li><a href="?page=login" style="background-color:#073;color:#FFF">
+                                <li><a href="?page=login" style="background-color:#FFE6A5;color:#000">
                                 <i class="fa fa-lock"></i>Login</a></li>
-                                <li><a href="?page=register" style="background-color:#073;color:#FFF">
+                                <li><a href="?page=register" style="background-color:#FFE6A5;color:#000">
                                 <i class="fa fa-star"></i>Register</a></li>
                                 <?php
                               }
