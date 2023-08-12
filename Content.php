@@ -2,52 +2,6 @@
 <?php
 include_once("connection.php");
 ?>
-     <div class="slider-area">
-        	<!-- Slider -->
-			<div class="block-slider block-slider4">
-				<ul class="" id="bxslider-home4">
-					<li>
-						<img src="img/iphone-case-wood-ultra-slim-12-pro-walnut-.jpg" alt="Slide" style="width:40%">
-						<div class="caption-group">
-							<h2 class="caption title">
-								iPhone <span class="primary">12/12 <strong>Pro Case Wood Ultra Slim</strong></span>
-							</h2>
-							<h4 class="caption subtitle">Made of walnut</h4>
-							<!-- <a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a> -->
-						</div>
-					</li>
-					<li><img src="img/Wooden Samsung Case.jpg" alt="Slide" style="width:40%">
-						<div class="caption-group">
-							<h2 class="caption title">
-								Samsung <span class="primary">Galaxy <strong>A71 Olive Wood Case</strong></span>
-							</h2>
-							<h4 class="caption subtitle">Made of Olive tree</h4>
-							<!-- <a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a> -->
-						</div>
-					</li>
-					<li><img src="img/iphone-case-wood-ultra-slim-14-pro-max-walnut-.jpg" alt="Slide" style="width:40%">
-						<div class="caption-group">
-							<h2 class="caption title">
-								iPhone <span class="primary">14 <strong>Pro Max Case Wood Ultra Slim</strong></span>
-							</h2>
-							<h4 class="caption subtitle">Made of walnut</h4>
-							<!-- <a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a> -->
-						</div>
-					</li>
-					<li><img src="img/Wooden Oppo Case.jpg" alt="Slide" style="width:40%">
-						<div class="caption-group">
-						  <h2 class="caption title">
-								Oppo <span class="primary">Reno 6 5G <strong>Oak Wood Case</strong></span>
-							</h2>
-							<h4 class="caption subtitle">Made of Oak tree</h4>
-							<!-- <a class="caption button-radius" href="#"><span class="icon"></span>Shop now</a> -->
-						</div>
-					</li>
-				</ul>
-			</div>
-			<!-- ./Slider -->
-    </div> <!-- End slider area -->
-    
     <!--Introduction of functions-->
     
     <div class="maincontent-area">
