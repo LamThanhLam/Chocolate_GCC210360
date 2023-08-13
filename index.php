@@ -47,14 +47,14 @@
   ?>
 
    <header id="header"><!--header-->
-		<div class="header_top"><!--header_top-->
+		<div class="header_top" style="background-color:#855C1A"><!--header_top-->
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-6">
 						<div class="contactinfo">
 							<ul class="nav nav-pills">
-								<li><a href="#"><i class="fa fa-phone"></i> +84 0913 674 594</a></li>
-								<li><a href="#"><i class="fa fa-envelope"></i> lamltgcc210360@fpt.edu.vn</a></li>
+								<li><a href="#" style="color:#000"><i class="fa fa-phone" style="color:#000"></i> +84 0913 674 594</a></li>
+								<li><a href="#" style="color:#000"><i class="fa fa-envelope" style="color:#000"></i> lamltgcc210360@fpt.edu.vn</a></li>
 							</ul>
 						</div>
 					</div>
@@ -103,7 +103,7 @@
 			</div>
 		</div><!--/header-middle-->
 	
-		<div class="header-bottom"><!--header-bottom-->
+		<div class="header-bottom" style="background-color:#855C1A"><!--header-bottom-->
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-9">
@@ -125,14 +125,6 @@
                                     </ul>
                                 </li> 
 							</ul>
-						</div>
-					</div>
-					<div class="col-sm-3">
-						<div class="search_box pull-right">
-                        <form class="d-flex" method="POST" action="?page=search">
-                                <input name="txtSearch" class="border border-3 border-top-0 border-start-0 border-end-0" type="text" placeholder="Search" aria-label="Search" style=" outline: none;">
-                                <button class="btn btn-primary" type="submit" name="btnSearch"> Search </button>
-                            </form>
 						</div>
 					</div>
 				</div>
