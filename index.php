@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MWS - Marches WoodenShell</title>
+    <title>Chocolate Land</title>
     
     <!-- Google Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,700,600' rel='stylesheet' type='text/css'>
@@ -59,15 +59,6 @@
 						</div>
 					</div>
 					<div class="col-sm-6">
-						<div class="social-icons pull-right">
-							<ul class="nav navbar-nav">
-								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-								<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-							</ul>
-						</div>
 					</div>
 				</div>
 			</div>
@@ -202,14 +193,9 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <div class="footer-about-us">
-                        <h2>M<span>WS</span></h2>
-                        <p>Marches WoodShell is formed and manufacture and sell wooden cases for mobile phones direct to customers.</p>
-                        <div class="footer-social">
-                            <a href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                            <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                            <a href="#" target="_blank"><i class="fa fa-youtube"></i></a>
-                            <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                        </div>
+                        <h2><span>Chocolate</span> Land</h2>
+                        <p>Chocolate Land is a chocolate warehouse managing website 
+                            that was created for managing purpose only.</p>
                     </div>
                 </div>
                 
@@ -217,23 +203,7 @@
                     <div class="footer-menu">
                         <h2 class="footer-wid-title">User</h2>
                         <ul>
-                            <li><a href="#">Account</a></li>
-                        </ul>                        
-                    </div>
-                </div>
-                
-                <div class="col-md-3 col-sm-6">
-                    <div class="footer-menu">
-                        <h2 class="footer-wid-title">Classify</h2>
-                        <ul>
-                            <li><a href="#">Apple</a></li>
-                            <li><a href="#">HTC</a></li>
-                            <li><a href="#">LG</a></li>
-                            <li><a href="#">Motorola</a></li>
-                            <li><a href="#">Nexus</a></li>
-                            <li><a href="#">Oppo</a></li>
-                            <li><a href="#">Samsung</a></li>
-                            <li><a href="#">Sony</a></li>
+                            <li><a href="?page=login">Account</a></li>
                         </ul>                        
                     </div>
                 </div>
@@ -246,16 +216,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="copyright">
-                        <p>&copy; 2023 MWS-Marches WoodenShell</p>
-                    </div>
-                </div>
-                
-                <div class="col-md-4">
-                    <div class="footer-card-icon">
-                        <i class="fa fa-cc-discover"></i>
-                        <i class="fa fa-cc-mastercard"></i>
-                        <i class="fa fa-cc-paypal"></i>
-                        <i class="fa fa-cc-visa"></i>
+                        <p>&copy; 2023 Chocolate Land</p>
                     </div>
                 </div>
             </div>

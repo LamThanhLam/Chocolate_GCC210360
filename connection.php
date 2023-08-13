@@ -1,4 +1,4 @@
 <?php
-    $conn = mysqli_connect('localhost', 'root', '', 'online_store_assignment')
+    $conn = mysqli_connect('localhost', 'root', '', 'shop_gcc210360')
             or die("Cannot connect database".mysqli_connect_error());
 ?>
