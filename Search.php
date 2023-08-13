@@ -29,7 +29,7 @@
                         <img
                         src="./img/<?=$r['Pro_image']?>"
                         class="card-img-top"
-                        alt="Product1>" style="margin: auto;
+                        alt="Product" style="margin: auto;
                         width: 300px;"
                         />
                         <div class="card-body">
