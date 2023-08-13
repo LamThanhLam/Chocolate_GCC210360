@@ -28,7 +28,7 @@ include_once("connection.php");
 				            <!--One product -->
                             <div class="single-product">
                                 <div class="product-f-image">
-                                    <img src="product-imgs/<?php echo $row['Pro_image']?>" width="150" height="150">
+                                    <img src="product-imgs/<?php echo $row['Pro_image']?>" width="160" height="160">
                                     <div class="product-hover">
                                         <a href="?page=detail&&id=<?php echo  $row['Product_ID']?>" class="view-details-link"><i class="fa fa-link"></i> See details</a>
                                     </div>
