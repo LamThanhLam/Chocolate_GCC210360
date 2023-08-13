@@ -52,23 +52,3 @@ include_once("connection.php");
         </div>
     </div> <!-- End main content area -->
     
-    <div class="brands-area">
-        <div class="zigzag-bottom"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="brand-wrapper">
-                        <div class="brand-list">
-                            <img src="img/brand001.png" alt="">
-                            <img src="img/brand002.png" alt="">
-                            <img src="img/brand003.png" alt="">
-                            <img src="img/brand004.png" alt="">
-                            <img src="img/brand005.png" alt="">
-                            <img src="img/brand006.png" alt="">
-                            <img src="img/brand007.png" alt="">                        
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> <!-- End brands area -->
