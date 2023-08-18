@@ -37,7 +37,7 @@ include_once("connection.php");
                                 <h2><a href="?page=detail&&id=<?php echo  $row['Product_ID']?>"><?php echo  $row['Product_Name']?></a></h2>
                                 
                                 <div class="product-carousel-price">
-                                    <ins><?php echo  $row['Price']?></ins> <del></del>
+                                    <ins><?php echo  $row['Price']?></ins> $<del></del>
                                 </div> 
                             </div>
                 
