@@ -41,7 +41,7 @@
 				$err .="<li>Product price must be number</li>";
 			}
 			if(!is_numeric($qty)){
-				$err .="<li>Product price must be number</li>";
+				$err .="<li>Product quantity must be number</li>";
 			}
 			if($err !=""){
 				echo "<ul>$err</ul>";
