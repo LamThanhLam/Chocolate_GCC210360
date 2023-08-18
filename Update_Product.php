@@ -153,7 +153,7 @@ if (isset($_POST["btnUpdate"])) {
 		$err .= "<li>Enter product name, please</li>";
 	}
 	if ($category == "0") {
-		$err .= "<li>Choose product category, olease</li>";
+		$err .= "<li>Choose product category, please</li>";
 	}
 	if (!is_numeric($price)) {
 		$err .= "<li>Product price must be number</li>";
