@@ -50,7 +50,7 @@ if(isset($_POST['btnRegister'])){
         $res = mysqli_query($conn,$sq);
         if(mysqli_num_rows($res)==0){
             mysqli_query($conn,"INSERT INTO customer(Username,Password, CustName,gender,Address,telephone,email, CusDate,CusMonth,CusYear,SSN,ActiveCode,state)
-            VALUE('$us','$pass','$fullname','$sex','$address','$tel','$email',$date,$month,$year, '','',0)")or die(mysqli_error($conn));
+            VALUE('$us','$pass','$fullname','$sex','$address','$tel','$email',$date,$month,$year, '','',1)")or die(mysqli_error($conn));
         echo "You have registered successfully";    
     }
     else {
